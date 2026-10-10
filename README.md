@@ -3,7 +3,14 @@ This repository tracks my problem-solving journey, algorithmic progression, and 
 
 ## Tech Stack & Environment
 * **Languages:** Python, C++, C#, C, Lua, JavaScript
-* **OS / Environment:** Linux (Arch & Pop!_OS) via Mozilla Firefox
+
+## 💻 OS & Environment
+
+* **Operating Systems:** Arch Linux & Pop!_OS
+* **Primary Editor:** VS Code
+* **Web Browser:** Firefox (for LeetCode & documentation)
+* **Shell Setup:** Bash / Zsh
+
 * **Focus Areas:** Dynamic Programming, Graph Algorithms, Arrays, Trees, and Bit Manipulation
 
 ## Contact Me
