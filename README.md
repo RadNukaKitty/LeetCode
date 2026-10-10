@@ -1,9 +1,10 @@
 # LeetCode
-This is a private archive to store my progression with problem solving and programming via LeetCode
+This repository tracks my problem-solving journey, algorithmic progression, and coding consistency on LeetCode. I use this space to refine my DSA knowledge across multiple programming paradigms.
 
 ## Tech Stack & Environment
-**Programming Languages:** Python, C++, C#, C, LUA and Javascript
-**Environment:** Linux (Arch and PopOS) within Mozilla Firefox
+* **Languages:** Python, C++, C#, C, Lua, JavaScript
+* **OS / Environment:** Linux (Arch & Pop!_OS) via Mozilla Firefox
+* **Focus Areas:** Dynamic Programming, Graph Algorithms, Arrays, Trees, and Bit Manipulation
 
 ## Contact Me
 - **GitHub:** [@radnukakitty](https://github.com)
