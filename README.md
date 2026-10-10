@@ -2,7 +2,7 @@
 This is a private archive to store my progression with problem solving and programming via LeetCode
 
 ## Tech Stack & Environment
-**Programming Languages:** Python, C++, Javascript
+**Programming Languages:** Python, C++, C#, C, LUA and Javascript
 **Environment:** Linux (Arch and PopOS) within Mozilla Firefox
 
 ## Contact Me
